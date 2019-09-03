@@ -1,0 +1,52 @@
+{
+  "name": "Menumaker",
+  "version": "3.0.0",
+  "private": true,
+  "dependencies": {
+    "@trendmicro/react-sidenav": "^0.4.5",
+    "antd": "^3.22.2",
+    "nanoid": "^2.1.0",
+    "node-sass": "^4.12.0",
+    "prop-types": "latest",
+    "radium": "^0.25.2",
+    "react": "^16.9.0",
+    "react-color": "^2.17.3",
+    "react-dnd": "7.7.0",
+    "react-dnd-html5-backend": "latest",
+    "react-dnd-touch-backend": "0.8.1",
+    "react-dom": "^16.9.0",
+    "react-drag-drawer": "^3.3.1",
+    "react-palette": "^1.0.1",
+    "react-popup": "^0.10.0",
+    "react-scripts": "3.1.1",
+    "react-sidebar": "^3.0.2",
+    "react-sortable-tree": "latest",
+    "react-sortable-tree-theme-full-node-drag": "1.1.0",
+    "react-sortable-tree-theme-minimal": "0.0.14",
+    "reactjs-popup": "^1.4.2"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "reactstrap": "^8.0.1"
+  }
+}

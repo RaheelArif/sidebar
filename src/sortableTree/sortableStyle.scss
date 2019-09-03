@@ -1,0 +1,34 @@
+.rst__tree:focus{
+  outline:none;
+}
+
+.ReactVirtualized__Grid{
+  outline: none;
+}
+.rstcustom__rowContents {
+  display: flex;
+  border-radius: 8px;
+}
+.rstcustom__collapseButton, .rstcustom__expandButton {
+ opacity: 0;
+  margin-left: 30px;
+  margin-bottom: 5px;
+}
+
+.rstcustom__highlight {
+    background: none;
+    cursor: default;
+}
+
+.rstcustom__node {
+  display: flex;
+
+
+}
+
+
+.rstcustom__nodeContent {
+  flex: 1;
+  position: relative;
+}
+
